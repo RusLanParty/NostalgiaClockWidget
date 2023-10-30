@@ -19,7 +19,7 @@ public class MyFrame extends JFrame {
     String date;
     public MyFrame(){
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
-        this.setSize(400,420);
+        this.setSize(350,420);
         this.setLayout(new FlowLayout());
         this.setResizable(false);
         this.setTitle("CLK");
